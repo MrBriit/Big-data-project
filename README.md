@@ -16,7 +16,7 @@ To run a Flask deployment tests, run the following command
 
 
 ## Running Heroku Tests
-NB: For now Ii have deploy the model via Flask (will make the heroku live later since it is paid)
+NB: For now I have deploy the model via Flask (will make the heroku live later since it is paid)
 To run a Heroku deployment tests, click on the following link:
 
 [Netflix Recommender System App](https://netflixrecommenderapp.herokuapp.com/)
@@ -40,7 +40,7 @@ Prepare your dataset:
 
 ## Demo
 
-NB: For now Ii have deploy the model via Flask (will make the heroku live later since it is paid)
+NB: For now I have deploy the model via Flask (will make the heroku live later since it is paid)
 [Click HERE To View App](https://netflixrecommenderapp.herokuapp.com/)
 
 
